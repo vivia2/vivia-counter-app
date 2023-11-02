@@ -123,8 +123,6 @@ class _MyHomePageState extends State<MyHomePage> {
                   style: ElevatedButton.styleFrom(
                     shape: const CircleBorder(),
                     padding: const EdgeInsets.all(20),
-                    primary: Colors.pink[100],
-                    onPrimary: Colors.white,
                   ),
                 ),
                 const SizedBox(width: 30),
@@ -142,8 +140,6 @@ class _MyHomePageState extends State<MyHomePage> {
                   style: ElevatedButton.styleFrom(
                     shape: const CircleBorder(),
                     padding: const EdgeInsets.all(20),
-                    primary: Colors.pink[100],
-                    onPrimary: Colors.white,
                   ),
                 ),
               ],
